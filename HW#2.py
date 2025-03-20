@@ -1,2 +1,2 @@
 #homework
-how to
+git push origin main
